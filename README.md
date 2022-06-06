@@ -15,6 +15,11 @@ usalma1990/usalma1990 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Technologies and Tools I'm Good With 🧰
-https://camo.githubusercontent.com/aef2596f02d5b955175ff7a7282a2cf1999fffacd29f4ba3c5ba2f5ab38111a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434f44452d505954484f4e2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e26636f6c6f723d333737364142
 
-
+![python](https://user-images.githubusercontent.com/52878350/172237991-8c33f9eb-528d-4647-b1d3-4750762c69ea.png)
+![r](https://user-images.githubusercontent.com/52878350/172238420-72561918-468c-4602-9d1c-f3e690d9a563.png)
+![mysql](https://user-images.githubusercontent.com/52878350/172238432-df67817d-ed5f-4dce-a3ca-6525bf69581d.png)
+![postgresql](https://user-images.githubusercontent.com/52878350/172238443-489153e8-a378-45d2-b0dd-2e4333415841.png)
+![microsoft-excel-2019--v1](https://user-images.githubusercontent.com/52878350/172238455-e5558cdb-c474-4bca-9d5b-4db660fad46e.png)
+![git](https://user-images.githubusercontent.com/52878350/172238469-5cae0226-ca4a-44f8-8989-029c2087f121.png)
+![visual-studio-code](https://user-images.githubusercontent.com/52878350/172238492-eec96fba-22d1-4d34-938c-95680311bbf5.png)
