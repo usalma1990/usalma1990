@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usalma1990
+- 👋 Hi, I’m Umme Salma
 - 👀 I’m interested in Data Science/Data Analytics/Data Engineering techniques
 
 I am a graduate student at the Langara College specializing in Machine Learning and Data Science. 
