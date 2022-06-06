@@ -23,3 +23,5 @@ Technologies and Tools I'm Good With 🧰
 ![microsoft-excel-2019--v1](https://user-images.githubusercontent.com/52878350/172238455-e5558cdb-c474-4bca-9d5b-4db660fad46e.png)
 ![git](https://user-images.githubusercontent.com/52878350/172238469-5cae0226-ca4a-44f8-8989-029c2087f121.png)
 ![visual-studio-code](https://user-images.githubusercontent.com/52878350/172238492-eec96fba-22d1-4d34-938c-95680311bbf5.png)
+![hadoop](https://user-images.githubusercontent.com/52878350/172239276-cc1cb78a-310e-4c00-b675-ee99fc99fc65.png)
+![1200px-Jenkins_logo svg](https://user-images.githubusercontent.com/52878350/172239330-d8f57984-a16d-4148-b29d-c38c8d00c34b.png)
