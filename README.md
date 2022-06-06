@@ -35,7 +35,7 @@ Projects I'm Working On 🚧
 </thead>
 <tbody>
 <tr>
-<td><a href="[https://github.com/usalma1990/Cellphone_Price_Prediction">Cell-Phone-Price-Prediction</a></td>
+<td><a href="https://github.com/usalma1990/Cellphone_Price_Prediction">Cell-Phone-Price-Prediction</a></td>
 <td></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e"><img src="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/Project%20Status-Open-brightgreen" style="max-width: 100%;"></a></td>
 </tr>
@@ -55,7 +55,7 @@ Projects I'm Working On 🚧
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e"><img src="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/Project%20Status-Open-brightgreen" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/TheJokeRxDC/dog-breed-identification-system-using-deep-learning"> Dog Breed Identification System Using Deep Learning </a></td>
+<td><a href="https://github.com/usalma1990/Ticket-management-"> Prediction of Tickets based on Priority</a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4e9791e631468e4257ff454dbad8f7ce57b943512afbc5b358f1dc1b75948b0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c617374253230436f6d6d69742d466562727561727920323032322d627269676874677265656e"><img src="https://camo.githubusercontent.com/4e9791e631468e4257ff454dbad8f7ce57b943512afbc5b358f1dc1b75948b0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c617374253230436f6d6d69742d466562727561727920323032322d627269676874677265656e" hspace="20" data-canonical-src="https://img.shields.io/badge/Last%20Commit-February 2022-brightgreen" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e"><img src="https://camo.githubusercontent.com/99bf70c26193be36a52d6ccf23c270c1c23f751062642bc08668795b6b1f46ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742532305374617475732d4f70656e2d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/Project%20Status-Open-brightgreen" style="max-width: 100%;"></a></td>
 </tr>
