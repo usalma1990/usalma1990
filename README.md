@@ -1,10 +1,8 @@
-<p style="font-family: times, serif; font-size:45pt; font-style:italic-bold" >
-    👋 Hi, I’m Umme Salma
-</p>
+  # 👋 Hi, I’m Umme Salma
 
  👀 I’m interested in Data Science/Data Analytics/Data Engineering techniques
  
-  <font size="25"> This is my text number 6</font>
+
 
 
 I am a post-graduate student at the Langara College(Vancouver, British Columbia) specializing in Machine Learning and Data Science. 
