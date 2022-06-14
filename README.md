@@ -2,6 +2,7 @@
 
 ### 👩‍💻 I’m interested in Data Science/Data Analytics/Data Engineering techniques
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usalma1990&label=Profile%20views&color=0e75b6&style=flat" alt="usalma1990" /> </p>
 
 
 
